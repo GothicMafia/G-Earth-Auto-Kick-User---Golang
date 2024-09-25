@@ -12,7 +12,7 @@ var ext = goearth.NewExt(goearth.ExtInfo{
 	Title:       "AutoKick",
 	Description: "Automatically kicks specific users from the room and sends a message",
 	Version:     "1.2",
-	Author:      "YourName",
+	Author:      "Cai",
 })
 
 func main() {
